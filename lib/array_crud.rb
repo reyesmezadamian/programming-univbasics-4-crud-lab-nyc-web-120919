@@ -18,7 +18,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  remove_element_from_end_of_array = ["Damian", "arrays!", "wow"]
+  remove_element_from_end_of_array = ["Damian", "arrays!",]
   last_one = remove_element_from_end_of_array.pop
   puts last_one
   return last_one
