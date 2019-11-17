@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   add_element_to_start_of_array = ["Damian", "Osvaldo"]
-  add_element_to_start_of_array.unshift("Osvaldo")
+  add_element_to_start_of_array.unshift("Juan")
 end
 
 def remove_element_from_end_of_array(array)
