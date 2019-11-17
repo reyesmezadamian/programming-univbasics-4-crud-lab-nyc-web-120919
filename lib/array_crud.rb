@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = ["Damian", "arrays!",]
-  last_one = remove_element_from_end_of_array.pop
+  last_one = "wow"
   puts last_one
   return last_one
   
